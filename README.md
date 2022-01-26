@@ -1,4 +1,4 @@
-# Robot Gladiators-HTML, CSS, JavaScript
+# Robot Gladiators-JavaScript
 
 ## Description
 
