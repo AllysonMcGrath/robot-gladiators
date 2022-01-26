@@ -16,6 +16,7 @@ Detailed instructions for cloning GitHub repositories can be found [here.](https
 
 ## Usage
 
+You can see the deployed site [here](https://allysonmcgrath.github.io/robot-gladiators/).
 When displaying correctly, the website should look like this:
 
 ![Blank site with alert box prompting for robot name](./assets/rgsite.JPG)
