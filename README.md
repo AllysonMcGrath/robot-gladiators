@@ -18,7 +18,7 @@ Detailed instructions for cloning GitHub repositories can be found [here.](https
 
 When displaying correctly, the website should look like this:
 
-![Blank site with alert box prompting for robot name]('/assets/rgsite.JPG')
+![Blank site with alert box prompting for robot name]('./assets/rgsite.JPG')
 
 
 Use standard git commands within this repository.
